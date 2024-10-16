@@ -13,7 +13,7 @@ cat <<EOL > .devcontainer/devcontainer.json
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/VENOM-V2/hr.py 7393913417:AAG-OoAqtvbvOEAisFAFl1JoQ79P_Kl87vY",
+    "postStartCommand": "python3 /workspaces/Binry-files-test-/hr.py 6402878130:AAEFMSXSH8Gs5efzuPmsl2M788T-JQOQV5E",
     "customizations": {
         "vscode": {
             "settings": {
